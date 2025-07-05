@@ -11,7 +11,7 @@
 Hey, I’m **Monic Auditya A.**, known as **Audi** — a storm in progress, building code, systems, and a legacy.
 
 **This isn’t a portfolio. It’s a declaration.**  
-A 4th sem student not bound by semester tags, but led by obsession for innovation.
+A 5th sem student not bound by semester tags, but led by obsession for innovation.
 
 ---
 
@@ -64,18 +64,16 @@ Challenger Mode Activated. Reinventing limits
 | Project                           | Status     | Notes                                           |
 |----------------------------------|------------|-------------------------------------------------|
 | **Port Charges Calculator**      | ✅ Complete | Built with React + Django during internship     |
-| **Berna**                | ⚙️ In Progress | Lined up for June. Stay tuned.                  |
-| **ExploreEase**                | ⚙️ In Progress | Lined up for June. Stay tuned.                     |
-| **IPack**                | ⚙️ In Progress | Lined up for June. Stay tuned.  |
-`Completed: 1` – Loading the rest...  
+| **ExploreEase**                |  ✅ Complete| Launched a Paper on it                    |
+| **NeoPack**                | ✅ Complete | Completed the MVP.  |
+`Completed: 3` – Loading the rest...  
 **Progress ≠ Pace. I build with purpose.**
 
 ---
 
 ## 🧠 LeetCode Dashboard
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/audiya?ext=heatmap)](https://leetcode.com/audiya)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/audi__14?theme=catppuccinMocha&font=Actor&ext=heatmap)
 > No rank defines me. But growth? Always measurable.
 
 ---
@@ -97,12 +95,12 @@ Challenger Mode Activated. Reinventing limits
 ---
 ## ⚡ GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=audiya&theme=tokyonight&hide_border=true)  
-![Audi's GitHub stats](https://github-readme-stats.vercel.app/api?username=audiya&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Audi14-2005&theme=tokyonight&hide_border=true)  
+![Audi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Audi14-2005&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
-## 🧩 Audi’s Philosophy
+## 🧩 My Philosophy
 > “You can’t delete the past, but you can override the future.”  
 > — _Written in the margin of my math book_
 
