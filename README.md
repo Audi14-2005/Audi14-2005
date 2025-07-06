@@ -66,6 +66,7 @@ Challenger Mode Activated. Reinventing limits
 | **Port Charges Calculator**      | ✅ Complete | Built with React + Django during internship     |
 | **ExploreEase**                |  ✅ Complete| Launched a Paper on it                    |
 | **NeoPack**                | ✅ Complete | Completed the MVP.  |
+| **DWR Radar Engineering Model**                | ✅ Complete | Completed the MVP and Succesfully handed it to IMD Scientist F.  |
 `Completed: 3` – Loading the rest...  
 **Progress ≠ Pace. I build with purpose.**
 
