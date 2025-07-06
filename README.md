@@ -6,7 +6,7 @@
 
 # I am born to code the creativity.
 
-> _"Not all Hackers wear hat. Some Just debug."_
+> _"Not all hackers wear hat. Some just debug."_
 
 Hey, I’m **Monic Auditya A.**, known as **Audi** — a storm in progress, building code, systems, and a legacy.
 
