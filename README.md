@@ -118,7 +118,7 @@ Challenger Mode Activated. Reinventing limits
 - [Website](#) (Coming soon with cinematic effects)
 
 ---
-<p align="left">
+<p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&vCenter=true&width=450&lines=%5BINFO%5D+2025-04-10+00%3A00%3A01%3A+Initializing+Audi.exe;[INFO]+2025-04-10+00%3A00%3A02%3A+Syncing+mind+with+codebase;[INFO]+2025-04-10+00%3A00%3A03%3A+Target+acquired%3A+Google+%7C+NASA+%7C+NVIDIA;[INFO]+2025-04-10+00%3A00%3A04%3A+Igniting+comeback+sequence...;%5BPASS%5D+2025-04-10+00%3A00%3A05%3A+LIMITS+BYPASSED." alt="Typing animation" />
 </p>
 
